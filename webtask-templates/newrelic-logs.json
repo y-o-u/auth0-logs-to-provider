@@ -3,7 +3,7 @@
   "name": "auth0-logs-to-new-relic-logs",
   "version": "1.0.0",
   "description": "This extension will take all of your Auth0 logs and export them to New Relic Logs",
-  "docsUrl": "",
+  "docsUrl": "https://github.com/y-o-u/auth0-logs-to-provider/blob/master/README.md",
   "logoUrl": "https://newrelic.com/assets/newrelic/source/PNG/NR_logo_Horizontal.png",
   "secrets": {
     "NEWRELIC_LICENSEKEY": {
